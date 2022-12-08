@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuanLyCongViec</string>
+    <string name="str_no_an_account"><u>Chưa có tài khoản!</u></string>
+    <string name="str_have_an_account"><u >Đã có tài khoản</u></string>
+    <string name="str_des">Mô tả: %s</string>
+    <string name="str_type">Loại: %s</string>
+</resources>
